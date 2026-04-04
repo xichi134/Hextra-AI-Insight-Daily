@@ -13,9 +13,9 @@ Hexi 2077's AI News Hub
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the Latest News! 🔥{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the Latest News! 📰{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly 🚀{{< /hextra/hero-badge >}}
-  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got Business or Partnership Ideas? 💡{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got Business or Partnership Ideas? 🤝{{< /hextra/hero-badge >}}
 </div>
 
 ---
@@ -27,7 +27,7 @@ Hexi 2077's AI News Hub
 ## Our Core Values
 
 {{< cards cols="3" >}}
-  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise: We're not just adding to the noise; we're cutting through the chatter, pulling out what *really* matters from thousands of daily updates. Think of all the hours you'll get back! ⚡" >}}
+  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise: We're not just adding to the noise; we're cutting through the chatter, pulling out what *really* matters from thousands of daily updates. Think of all the hours you'll get back! 🎯" >}}
   {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight: We don't just translate; we serve up razor-sharp analysis and give you the actual lowdown on bleeding-edge AI developments. Get the real scoop! 🔍" >}}
   {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus: We're tracking how AI tools are *really* shaking things up in the wild, helping you snag genuine opportunities in the productivity revolution. Time to level up! 🚀" >}}
 {{< /cards >}}
@@ -50,10 +50,10 @@ Hexi 2077's AI News Hub
 {{% steps %}}
 
 ### 1. Build a Big-Picture View
-The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! Seriously, it's the perfect launchpad. This must-have resource helps you quickly get a handle on key industry shifts, so you won't get drowned in fragmented info. Get ready to boost your learning, lightning fast! ⚡
+The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! Seriously, it's the perfect launchpad. This must-have resource helps you quickly get a handle on key industry shifts, so you won't get drowned in fragmented info. Get ready to boost your learning, lightning fast! 🗺️
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-04/2026-04-03) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a thing! ✨
+The [AI Daily Archive](/en/2026-04/2026-04-03) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a thing! 🗓️
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/) is where you go for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru! 🧙‍♂️
