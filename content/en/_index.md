@@ -22,7 +22,7 @@ Hexi 2077's AI News Hub
 
 {{< callout type="important" >}}
   **Our philosophy** is simple: we're not here to publish *all* the info, just the most accurate, timely, and genuinely useful stuff.
-{{< /hextra/callout >}}
+{{< /callout >}}
 
 ## Our Core Values
 
