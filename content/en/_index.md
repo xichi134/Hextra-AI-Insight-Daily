@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-04/2026-04-11" title="AI News Daily 2026/04/11" subtitle="Alibaba Wan2.7 tops video chart, Word plugin released Ant Group wins" icon="calendar" >}}
+{{< card link="/en/2026-04/2026-04-12" title="AI News Daily 2026/04/12" subtitle="Shopify opens backend read-write access to agents, new engine achieves" icon="calendar" >}}
+  {{< card link="/en/2026-04/2026-04-11" title="AI News Daily 2026/04/11" subtitle="Alibaba Wan2.7 tops video chart, Word plugin released Ant Group wins" icon="calendar" >}}
   {{< card link="/en/2026-04/2026-04-10" title="AI News Daily 2026/04/10" subtitle="Coze 2.5 empowers Agents with cloud devices and long-term memory; Tencent" icon="calendar" >}}
   {{< card link="/en/2026-04/2026-04-09" title="AI News Daily 2026/04/09" subtitle="DeepSeek疑似V4暗更，新增快速与专家模式 Anthropic发布托管Agent平台，每小时仅$0.08 OpenAI移除安全关停机制，资本优先引发担忧 Aristotle AI形式化91%厄多" icon="calendar" >}}
   {{< card link="/en/2026-04/2026-04-08" title="AI News Daily 2026/04/08" subtitle="Anthropic rolls out limited access to its Mythos security model, capable" icon="calendar" >}}
   {{< card link="/en/2026-04/2026-04-07" title="AI News Daily 2026/04/07" subtitle="Gemini 3.1 Pro lands in Augment, Google Eloquent launches free offline" icon="calendar" >}}
-  {{< card link="/en/2026-04/2026-04-06" title="AI News Daily 2026/04/06" subtitle="OpenAI unveils new architecture Spud, not a GPT sequel; ChatGPT 6 rumored" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! Seriously, it's the perfect launchpad. This must-have resource helps you quickly get a handle on key industry shifts, so you won't get drowned in fragmented info. Get ready to boost your learning, lightning fast! ⚡
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-04/2026-04-11) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a thing! ✔️
+The [AI Daily Archive](/en/2026-04/2026-04-12) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a thing! ✔️
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/) is where you go for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru! ⚙️
