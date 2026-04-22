@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-04/2026-04-20" title="AI News Daily 2026/04/20" subtitle="Claude 4.7重构安全架构增强防御，Grok长文摘要上线 伯克利揭露评测作弊黑产，华科大MoDA架构突破深度检索瓶颈 OpenAI巨资联手Cerebras布局算力硬件，Meta挖角团队抢夺顶级智" icon="calendar" >}}
+{{< card link="/en/2026-04/2026-04-21" title="AI News Daily 2026/04/21" subtitle="OpenAI推出屏幕记忆功能，克劳德设计工具可一键生成交互原型。 苹果高层变动库克转任主席，人形机器人天工在马拉松赛跑赢人类。 月之暗面开源万亿参数模型，阿里通义千问发布空间智能高效架构。 研究显示过" icon="calendar" >}}
+  {{< card link="/en/2026-04/2026-04-20" title="AI News Daily 2026/04/20" subtitle="Claude 4.7重构安全架构增强防御，Grok长文摘要上线 伯克利揭露评测作弊黑产，华科大MoDA架构突破深度检索瓶颈 OpenAI巨资联手Cerebras布局算力硬件，Meta挖角团队抢夺顶级智" icon="calendar" >}}
   {{< card link="/en/2026-04/2026-04-19" title="AI News Daily 2026/04/19" subtitle="Bolt实现代码跨项目搬运，Luma推出电影级方案，Grok低价语音接口上线 DeepSeek开源算子库加速模型推理，Kimi突破缓存技术，谷歌发布MCP调试利器 OpenAI巨资投芯片商，Curso" icon="calendar" >}}
   {{< card link="/en/2026-04/2026-04-18" title="AI News Daily 2026/04/18" subtitle="Anthropic发布Claude Design重塑创意，阿里推交互世界模型赋能机器训练 GPT-Rosalind加速新药研发，字节DisCoGC优化存储，AI陪审团诊断超越专家 它石智航获4.55亿" icon="calendar" >}}
   {{< card link="/en/2026-04/2026-04-17" title="AI News Daily 2026/04/17" subtitle="OpenAI发布桌面Codex重塑工作流，Meta推智能平台优化架构，谷歌Gemini进苹果 GPT-5.4-Cyber筑安全网，Firebase泄露致天价账单，严防恶意接口盗资金 遥感大模型极速测绘" icon="calendar" >}}
   {{< card link="/en/2026-04/2026-04-16" title="AI News Daily 2026/04/16" subtitle="OpenAI发布智能体开发套件原生沙箱，VS2022原生支持MCP协议，谷歌语音响应极速 Midjourney V8.1渲染提速三倍原生2K生成，Adobe助手自动化，Claude强制执行实名核验 O" icon="calendar" >}}
-  {{< card link="/en/2026-04/2026-04-15" title="AI News Daily 2026/04/15" subtitle="Claude's revamp now supports multi-task programming, while MiniMax desktop" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! Seriously, it's the perfect launchpad. This must-have resource helps you quickly get a handle on key industry shifts, so you won't get drowned in fragmented info. Get ready to boost your learning, lightning fast! ⚡
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-04/2026-04-20) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a thing! ✔️
+The [AI Daily Archive](/en/2026-04/2026-04-21) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a thing! ✔️
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/) is where you go for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru! ⚙️
